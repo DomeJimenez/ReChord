@@ -1,0 +1,32 @@
+#botonLogin{
+	width: 100%;
+}
+
+#botonBuscar{
+	width: 15%;
+}
+
+#estiloHead{
+	background-image: url("../img/GB.png");
+	background-repeat:no-repeat;
+	background-position:center top;
+	float:right;
+	position:relative;
+	width: 100%;
+}
+
+#estiloBody{
+	background-color: #FEFEFC;
+	width: 100%;
+}
+
+#estiloFooter{
+	background-color: #F5F5F5;
+	width: 100%;
+}
+
+#estiloTime{
+	max-width: 100%;
+    height: auto;
+}
+
